@@ -1,7 +1,7 @@
 
 /**
  * Adds a svg icon to the map which you can style with any color with a rgb sring value.
- * Phil Willis <me@philwillis.svgMarker>
+ * Phil Willis
  */
 
 (function() {
