@@ -6,21 +6,21 @@
 - Define a rgb string values
 ~~~
   L.marker(coordinate, {
-    icon: L.pw.icon({rgb:"92,186,113"})
+    icon: L.svgMarker.icon({rgb:"92,186,113"})
   });
 ~~~
 
 - or use the default color
 ~~~
 L.marker(coordinate, {
-  icon: L.pw.icon({rgb:"92,186,113"})
+  icon: L.svgMarker.icon({rgb:"92,186,113"})
 });
 ~~~
 
 - Add your own svg
 ~~~
 L.marker(coordinate, {
-  icon: L.pw.icon({
+  icon: L.svgMarker.icon({
     svg: "<svg> ... </svg>"
   })
 });
