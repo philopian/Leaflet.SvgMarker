@@ -6,14 +6,14 @@
 - Define a rgb string values
 ~~~
   L.marker(coordinate, {
-    icon: L.svgMarker.icon({rgb:"92,186,113"})
+    icon: L.svgMarker.icon({rgb:"rgb(92,186,113)"})
   });
 ~~~
 
 - or use the default color
 ~~~
 L.marker(coordinate, {
-  icon: L.svgMarker.icon({rgb:"92,186,113"})
+  icon: L.svgMarker.icon({rgb:"rgb(92, 104, 186)"})
 });
 ~~~
 

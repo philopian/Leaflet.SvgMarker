@@ -12,7 +12,7 @@ L.marker([49.24223, -123.1463], {
 
 L.marker([49.21223, -123.1163], {
     icon: L.svgMarker.icon({
-      rgb: "rgb(23,111,42)"
+      rgb: "rgb(92, 104, 186)"
     })
   })
   .addTo(map)
@@ -21,7 +21,7 @@ L.marker([49.21223, -123.1163], {
 
 L.marker([49.21223, -123.1563], {
     icon: L.svgMarker.icon({
-      rgb: "rgb(0,222,42)"
+      rgb: "rgb(0, 222, 42)"
     })
   })
   .addTo(map)
