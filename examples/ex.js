@@ -29,7 +29,7 @@ L.marker([49.21223, -123.1563], {
 
 
 // custom svg
-$.get("svg-marker-factory/I-95.svg", function(svg) {
+$.get("svg-files/I-95.svg", function(svg) {
   var shield = L.marker([49.11223, -123.1563], {
       icon: L.svgMarker.icon({
         svg: svg,

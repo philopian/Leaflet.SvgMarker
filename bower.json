@@ -1,5 +1,5 @@
 {
-  "name": "leaflet.SvgMarker",
+  "name": "Leaflet.SvgMarker",
   "version": "0.0.1",
   "authors": [
     "philopian <pdotwdot@gmail.com>"
@@ -20,5 +20,5 @@
   "main":[
     "dist/Leaflet.SvgMarker.min.js"
   ],
-  "keywords": ["gis", "map"]
+  "keywords": ["leaflet", "map", "marker", "svg"]
 }

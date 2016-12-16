@@ -1,7 +1,7 @@
-## Leaflet.SvgMarker
+# Leaflet.SvgMarker
 - Adds a svg icon to the map which you can style with any color with a rgb sring value.
 
-# Simple usage
+## Simple usage
 
 - Define a rgb string values
 ~~~
