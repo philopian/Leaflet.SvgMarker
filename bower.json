@@ -18,7 +18,7 @@
     "leaflet": "^1.0.1"
   },
   "main":[
-    "dist/Leaflet.SvgMarker.min.js"
+    "src/Leaflet.SvgMarker.js"
   ],
   "keywords": ["leaflet", "map", "marker", "svg"]
 }
